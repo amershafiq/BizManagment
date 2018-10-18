@@ -1,0 +1,9 @@
+E:\Development\DotNet\BizManagement\BizManagementConsole\bin\Debug\BizManagementConsole.exe.config
+E:\Development\DotNet\BizManagement\BizManagementConsole\bin\Debug\BizManagementConsole.exe
+E:\Development\DotNet\BizManagement\BizManagementConsole\bin\Debug\BizManagementConsole.pdb
+E:\Development\DotNet\BizManagement\BizManagementConsole\bin\Debug\RestSharp.dll
+E:\Development\DotNet\BizManagement\BizManagementConsole\bin\Debug\RestSharp.xml
+E:\Development\DotNet\BizManagement\BizManagementConsole\obj\Debug\BizManagementConsoleClient.csproj.CoreCompileInputs.cache
+E:\Development\DotNet\BizManagement\BizManagementConsole\obj\Debug\BizManagementConsoleClient.csproj.CopyComplete
+E:\Development\DotNet\BizManagement\BizManagementConsole\obj\Debug\BizManagementConsole.exe
+E:\Development\DotNet\BizManagement\BizManagementConsole\obj\Debug\BizManagementConsole.pdb

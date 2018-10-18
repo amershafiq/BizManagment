@@ -1,0 +1,10 @@
+E:\Development\DotNet\BusinessManagement\HrManagementModel\bin\Debug\BizManagementModel.dll
+E:\Development\DotNet\BusinessManagement\HrManagementModel\bin\Debug\BizManagementModel.pdb
+E:\Development\DotNet\BusinessManagement\HrManagementModel\obj\Debug\BizManagementModel.csproj.CoreCompileInputs.cache
+E:\Development\DotNet\BusinessManagement\HrManagementModel\obj\Debug\BizManagementModel.dll
+E:\Development\DotNet\BusinessManagement\HrManagementModel\obj\Debug\BizManagementModel.pdb
+E:\Development\DotNet\BizManagement\BizManagementModel\bin\Debug\BizManagementModel.dll
+E:\Development\DotNet\BizManagement\BizManagementModel\bin\Debug\BizManagementModel.pdb
+E:\Development\DotNet\BizManagement\BizManagementModel\obj\Debug\BizManagementModel.csproj.CoreCompileInputs.cache
+E:\Development\DotNet\BizManagement\BizManagementModel\obj\Debug\BizManagementModel.dll
+E:\Development\DotNet\BizManagement\BizManagementModel\obj\Debug\BizManagementModel.pdb

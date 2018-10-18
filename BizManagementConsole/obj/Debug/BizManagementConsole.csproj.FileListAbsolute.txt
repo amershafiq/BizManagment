@@ -1,0 +1,2 @@
+E:\Development\DotNet\BizManagement\BizManagementConsole\obj\Debug\BizManagementConsole.csprojAssemblyReference.cache
+E:\Development\DotNet\BizManagement\BizManagementConsole\obj\Debug\BizManagementConsole.csproj.CoreCompileInputs.cache
